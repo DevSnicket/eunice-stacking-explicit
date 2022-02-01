@@ -1,3 +1,5 @@
+*This code is now part of the https://github.com/DevSnicket/eunice repository*
+
 # eunice-stacking-explicit ![](https://raw.githubusercontent.com/DevSnicket/eunice/master/arrows/default-height.svg?sanitize=true)
 
 creates or adds explicitly stated stack structure to Eunice analysis YAML
